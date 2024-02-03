@@ -1,13 +1,11 @@
 ﻿ body {
  
- padding: 0 20px;
+ padding: 0 50px;
 
-  
  font-size: 16px;
   
  font-family: "Arial", sans-serif;
-
-}
+ }
 
 
 h1 {
@@ -30,12 +28,6 @@ pre {
  
  border-left: 2px solid #cccccc;
   
-}
-h2 {
-  
- color: #618ad2;
- 
-
 }
 
 .photo {height:200px; photo-align:centr;}
